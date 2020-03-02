@@ -33,7 +33,8 @@ a {
 #header5,
 #header6,
 #header7,
-#header8 {
+#header8,
+#header9 {
     margin-bottom: 100px;
     font-size: 80px;
     font-weight: 700;
@@ -45,7 +46,8 @@ a {
 #paragraph5,
 #paragraph6,
 #paragraph7,
-#paragraph8 {
+#paragraph8,
+#paragraph9 {
     line-height: 50px;
     word-spacing: 3px;
     letter-spacing: 2px;
@@ -62,73 +64,90 @@ a {
     color: rgb(190, 178, 201);
 }
 #section2 {
-    background-color: rgb(17, 4, 29);
+    background-color: rgb(6, 4, 41);
 }
 #header2 {
-    color: #A9B300;
+    color: #FFEF9C;
 }
 #paragraph2 {
     color: rgb(153, 153, 153);
 }
 #section3 {
-    background-color: #9721FF;
+    background-color: rgb(233, 241, 233);
 }
 #header3 {
-    color: rgb(239, 221, 255);
+    color: #B35B84;
 }
 #paragraph3 {
-    color: rgb(252, 255, 197);
+    color: rgb(30, 6, 31);
 }
 #section4 {
-    background-color: rgb(6, 1, 10);
+    background-color: rgb(252, 239, 255);
 }
 #header4 {
-    color: rgb(210, 216, 106);
+    color: rgb(96, 54, 107);
 }
 #paragraph4 {
-    color: rgb(182, 101, 253);
+    color: #6DB800;
 }
 #section5 {
-    background-color: rgb(168, 145, 14);
+    background-color: rgb(170, 143, 137);
 }
 #header5 {
-    color: rgb(57, 31, 83);
+    color: #9CFFE1;
 }
 #paragraph5 {
-    color: rgb(255, 255, 250);
+    color: rgb(255, 255, 255);
 }
 #section6 {
-    background-color: rgb(250, 250, 250);
+    background-color: rgb(243, 224, 205);
 }
 #header6 {
-    color: rgb(65, 158, 4);
+    color: #492EE6;
 }
 #paragraph6 {
-    color: rgb(49, 13, 83);
+    color: #150D42;
 }
 #section7 {
-    background-color: rgb(17, 4, 29);
+    background-color: rgb(210, 219, 215);
 }
 #header7 {
-    color: rgb(65, 158, 4);
+    color: #56B384;
 }
 #paragraph7 {
-    color: rgb(153, 153, 153);
+    color: rgb(59, 26, 22);
 }
 #section8 {
-    background-color: rgb(17, 4, 29);
+    background-color: rgb(238, 238, 238);
 }
 #header8 {
-    color: #b46419;
+    color: #131181;
 }
 #paragraph8 {
-    color: #bdbdbd;
+    color: #2a292e;
 }
 #button8 {
     margin-top: 20px;
     font-size: 33px;
     letter-spacing: 3px;
     word-spacing: 3px;
-    background-color: #215002;
-    color: rgb(189, 189, 189);
+    background-color: #FF6615;
+    color: rgb(241, 241, 241);
+}
+#section9 {
+    background-color: rgb(245, 245, 245);
+}
+#header9 {
+    color: #00c9a5;
+}
+#paragraph9 {
+    color: #2a292e;
+}
+#button9 {
+    margin-top: 20px;
+    font-size: 33px;
+    letter-spacing: 3px;
+    word-spacing: 3px;
+    background-color: #a60080;
+    color: #fff;
 }
